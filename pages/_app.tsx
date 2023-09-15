@@ -39,7 +39,6 @@ export default function App({ Component, pageProps }: AppProps) {
           content={`https://media.discordapp.net/attachments/1044673805966135306/1148215648154046584/logo512.webp`}
         ></meta>
         <title>NALO Visuals</title>
-        {/* <meta name="keywords" content={productMeta?.trueSearchWordsMeta}></meta> */}
       </Head>
       <BackToTop />
       <Navbar />
